@@ -1,0 +1,7 @@
+<RCC>
+    <qresource prefix="/">
+        <file>main.qml</file>
+        <file>view/Wake_now.qml</file>
+        <file>view/Wake_nowForm.ui.qml</file>
+    </qresource>
+</RCC>
